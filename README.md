@@ -1,4 +1,4 @@
-# Champions-United!
+# Champions-United! New Orleans
 Welcome to Champions United!
 Online Discord server at:
 
