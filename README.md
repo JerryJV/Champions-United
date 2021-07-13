@@ -1,6 +1,5 @@
-# Champions-United
-Welcome to Champions United!
-Online Discord server at:
+# Champions-United!-GM-Branch
+This is the GM only section of files.
 
 This branch holds the files needed to GM in the Champions United! campaign.
 Files to be included:
