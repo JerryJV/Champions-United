@@ -7,45 +7,45 @@ Files to be included:
 
 Overall Campaign Villains
 
-Villain groups
+  Villain groups
 
-The Suit
+    The Suit
 
-Viper Spectrum
+    Viper Spectrum
 
-Viper Electromagnetic
+    Viper Electromagnetic
 
-Villain character sheets
+  Villain character sheets
 
-Satin
+    Satin
 
-Overall Campaign NPC's
+  Overall Campaign NPC's
 
-Overall Campaign Plot lines
+  Overall Campaign Plot lines
 
-Submitted and Aproved character files
+  Submitted and Aproved character files
 
-Character files under review
+  Character files under review
 
-Individual 'city' files
+  Individual 'city' files
 
-New Orleans
+    New Orleans
 
-The Sentinals
+      The Sentinals
 
-Sentinal
+      Sentinal
 
-Sentinal's Base
+     Sentinal's Base
 
-Former Members
+    Former Members
 
-San Angelo: City of Heroes
+  San Angelo: City of Heroes
 
-NPC's
+    NPC's
 
-City Areas
+    City Areas
 
-San Angelo County
+    San Angelo County
 
 
 
